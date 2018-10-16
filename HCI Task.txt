@@ -1,0 +1,36 @@
+Questions?: 
+Can I write in first person in this report ? 
+Where can I get camera? Can I use my phone ?
+
+Notes: 
+fxplus studyhub -> written assignments -> writing for science -> scientific reports -> 
+-> look into how and what paragraphs should be written about. Particularly introduction, materials and 
+methods, results, discussion.
+
+
+Experts:
+Ultimate expert Ryan Clarke and Prime expert Adrian Carter
+
+Introduction:
+1) Demiurge is a first year project that I took part in developing. Mainly focusing on AI development, 
+but also having implemented some character mechanics. It's an top-down, sci-fi RPG with elements
+of bullet-hell mechanic and story.
+
+Player has crash landed on an unknown planet, which he wants to get out of. But the antagonist decided
+that the player intends to take over his powers. Being very clumsy, he's trying to scare the player 
+away, but only makes himself lose authority as a planet ruler.
+
+2) Demiurge trailer (look up in "mashup" to how include a video)
+
+
+Methods:
+1) Heuristic Evaluation - Ultimate expert Ryan Clarke, Prime expert Adrian Carter and ... will take part
+in evaluating the game.
+
+2) Think aloud (needs a camera behind the expert) - In addition to heuristic evaluation, I will be 
+using think aloud method, which is considered as one of the sub-methods to psychophysiological method. 
+It requires a camera behind an expert that records whetever the expert says. And the expert has to 
+... his/her impressions about the game, how he/she feels while playing it, what events made him/her feel 
+most emotions...? This method should not take more than 10 minutes, as the game itself is not 
+completely finished and saying what one's feeling while playing a game for a long period of time 
+ruins player experience and therefore unnecessary or unhonest feedback will be given.
